@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameResponsibilities.cs">
+    <Files>
+      <File FileName="Assets/Scripts/tilinOnExecute.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Coletavel.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Score.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MovePlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Inimigo.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CarregaCena.cs" Line="12" Column="1" />
+      <File FileName="Assets/Scripts/GameResponsibilities.cs" Line="29" Column="21" />
+      <File FileName="Assets/Scripts/PressAnyKey.cs" Line="9" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
